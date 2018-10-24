@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://172.16.100.18:4444/iostest/frameworktest.ipa</string>
+<string>https://172.16.100.18:4444/iostest/fast.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.helloworld.frameworktest</string>
+<string>com.helloworld.inhabiting-station</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
@@ -41,7 +41,7 @@
 <key>subtitle</key>
 <string>demo</string>
 <key>title</key>
-<string>frameworktest</string>
+<string>fast</string>
 </dict>
 </dict>
 </array>
