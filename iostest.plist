@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://172.16.10.19:8080/startalk.ipa</string>
+<string>https://github.com/wangyanlu/own3/blob/master/photo.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.yourcompany.ProductName.IMSDK-iOS</string>
+<string>upower.photo</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
@@ -41,7 +41,7 @@
 <key>subtitle</key>
 <string>demo</string>
 <key>title</key>
-<string>StarTalk</string>
+<string>photo</string>
 </dict>
 </dict>
 </array>
